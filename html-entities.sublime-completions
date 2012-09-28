@@ -1,0 +1,39 @@
+{
+	"scope": "text.html",
+	"completions":[
+		"&quot;", // Quotation mark
+		"&amp;", // Ampersand
+		"&lt;", // Less-than sign
+		"&gt;", // Greater-than sign
+		"&lsquo;", // Open single quote
+		"&rsquo;", // Close single quote
+		"&ldquo;", // Open double quotes
+		"&rdquo;", // Close double quotes
+		"&sbquo;", // Single low-
+		"&bdquo;", // Double low-
+		"&prime;", // Prime/minutes/feet
+		"&Prime;", // Double prime/seconds/inches
+		"&nbsp;", // Non-breaking space
+		"&#8208;", // Hyphen
+		"&ndash;", // En dash
+		"&mdash;", // Em dash
+		"&ensp;", // En space
+		"&emsp;", // Em space
+		"&thinsp;", // Thin space
+		"&brvbar;", // Broken vertical bar
+		"&bull;", // Bullet
+		"&#8227;", // Triangular bullet
+		"&hellip;", // Horizontal ellipsis
+		"&circ;", // Circumflex
+		"&uml;", // Umlaut or dieresis
+		"&tilde;", // Small tilde
+		"&lsaquo;", // Single left angle quote
+		"&rsaquo;", // Single right angle quote
+		"&laquo;", // Left angle quote
+		"&raquo;", // Right angle quote
+		"&oline;", // Overline
+		"&iquest;", // Inverted question mark
+		"&iexcl;", // Inverted exclamation
+		"&#8253;" // Interrobang
+	]
+}
